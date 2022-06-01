@@ -40,7 +40,7 @@ header {
 
 .left {
     background-color: rgb(255, 190, 12);
-    transition: 0s ease-in-out;
+    transition: 0ms ease-in-out;
 
 
 
@@ -80,6 +80,7 @@ button {
     cursor: pointer;
     font-size: 28px;
     text-transform: uppercase;
+    transition: 0.5s ease-in-out;
 
 
 }
